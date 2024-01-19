@@ -1,5 +1,5 @@
 # tindogs-webpage
-# I create TinDogs Web page using html5 css3 latest bootstrap version
+# I create TinDogs Web page using html5 css3 latest bootstrap version and this webpage full responsive.
 # Here is demo link !
 https://shahzaib-aslam2k24.github.io/tindogs-webpage/
 # Here is Screenshot web page
